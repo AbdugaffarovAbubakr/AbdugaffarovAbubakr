@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Abubakr</h1>
-<h3 align="center">A Passionate Software | Backend Developer from Uzbekistan</h3>
+<h3 align="center">A Passionate Software Engineer | Backend Developer from Uzbekistan</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer+%7C+API+Specialist;Clean+Code+%7C+Scalable+Systems+%7C+Efficient+Backend+Design;Lifelong+Learner+%7C+Tech+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
