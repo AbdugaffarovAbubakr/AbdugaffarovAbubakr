@@ -1,77 +1,101 @@
-<h1 align="center">👋 Hi there, I'm Abubakr!</h1>
-<h3 align="center">⚙️ Software Engineer | 🧠 Backend Developer | 🇺🇿 Uzbekistan</h3>
+<h1 align="center">👋 Hi, I'm Abubakr</h1>
+<h3 align="center">
+Backend Engineer • API Architect • Real-time Systems  
+<br/>
+🇺🇿 Uzbekistan
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+API+Architect;Node.js+%7C+TypeScript+%7C+MongoDB+%7C+PostgreSQL;Clean+Code+%7C+RESTful+Design+%7C+Real-time+Apps;Lifelong+Learner+%7C+Team+Player+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+API+Architect;Node.js+%7C+TypeScript+%7C+Databases;Scalable+APIs+%7C+Clean+Architecture;Always+Learning+%7C+Always+Building" />
 </p>
 
 ---
 
-## 🧠 Tech Stack
+## 🚀 About Me
 
-### 🛠️ Languages & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,html,css,mongodb,postgres,mysql" />
+I’m a **Backend Engineer** focused on building  
+**scalable, secure, and maintainable APIs**.
+
+- ⚙️ Designing **RESTful & real-time systems**
+- 🧠 Strong focus on **clean architecture & best practices**
+- 🔐 Experience with **authentication, authorization & RBAC**
+- 🌐 Working with **production-ready databases**
+- 🚀 Constantly improving system performance & scalability
+
+---
+
+## 🧠 Core Tech Stack
+
+### 🛠 Languages & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,mongodb,postgres,mysql" />
 </p>
 
-### 🧩 Frameworks & Libraries
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ejs,jwt,docker,firebase" />
-  <img src="https://img.shields.io/badge/Zod-3E62AD?logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WebSocket-35495E?logo=websocket&logoColor=white&style=for-the-badge" />
+### 🧩 Backend & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,docker" />
 </p>
 
-### ⚙️ Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma,androidstudio" />
-  <img src="https://img.shields.io/badge/MongoDB%20Compass-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DrawSQL-339933?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" />
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zod-3E62AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WebSocket-35495E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge" />
 </p>
+
+---
+
+## 🧱 Architecture & Principles
+
+- MVC / Modular Architecture  
+- Clean Code & SOLID principles  
+- REST API standards  
+- Validation & Error Handling  
+- Role-based Access Control  
+- Pagination, Filtering & Search  
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🔐 **Online Ticket System API** | Secure ticketing API with role-based access, JWT auth, and WebSocket support |
-| 📝 **Blog Platform API** | CRUD blog platform with authentication and scalable architecture |
-| 🎓 **Student Management API** | Manage students, grades, and courses using modular clean architecture |
+| Project | Key Features |
+|------|-------------|
+| 🔐 **Online Ticket System API** | JWT auth, roles (Admin/User), WebSocket, scalable structure |
+| 📝 **Blog Platform API** | Auth, CRUD, modular architecture |
+| 🎓 **Student Management API** | JWT, roles, grades, courses, advanced relations |
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdugaffarovAbubakr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdugaffarovAbubakr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdugaffarovAbubakr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdugaffarovAbubakr&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdugaffarovAbubakr&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdugaffarovAbubakr&theme=discord&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdugaffarovAbubakr&theme=discord&no-bg=true&margin-w=15" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 - 📬 Telegram: [@AbdugaffarovAbubakr](https://t.me/AbdugaffarovAbubakr)
 - 📧 Email: **abdugaffarovabuabkr698@gmail.com**
-- 🔗 LinkedIn: [linkedin.com/in/abdugaffarovabubakr](https://www.linkedin.com/in/abdugaffarovabubakr)
+- 🔗 LinkedIn: [linkedin.com/in/abdugaffarovabubakr](https://linkedin.com/in/abdugaffarovabubakr)
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=100&section=footer" alt="Footer" />
-  <br />
-  <strong>✨ Thanks for visiting my profile! ✨</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
+</p>
+
+<p align="center">
+<strong>⭐ If you like my work — follow & star my repositories ⭐</strong>
 </p>
